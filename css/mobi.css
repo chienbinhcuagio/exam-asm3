@@ -1,5 +1,11 @@
 @media only screen and (max-width:599px){
    
+  header {
+    position: ralative;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.345), rgba(0, 0, 0, 0.789)), url(../images/banner.jpg);
+    height: 50vh;
+    background-size: cover;
+  }
     #nav-bar .container {
         display: flex;
         flex-direction: column;

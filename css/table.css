@@ -6,17 +6,8 @@
 header {
   position: ralative;
   background-image: linear-gradient(rgba(0, 0, 0, 0.345), rgba(0, 0, 0, 0.789)), url(../images/banner.jpg);
-  height: 100vh;
+  height: 50vh;
   background-size: cover;
-}
-#banner {
-  position: absolute;
-  left: 50%;
-  top: 15%;
-  transform: translatex(-50%);
-  color: #f7f7f7;
-  text-align: center;
-  font-size: 24px;
 }
 
   nav.container {
